@@ -43,7 +43,7 @@ This Whitepaper introduces:
 
 Important implementation factors will be outlined, a) representative use cases, b) connections to traditional systems, and use of the protocol.
 
-For feedback or comments, contact us at research@Thought.live. The Thought Network is a work in progress. Research and Development is ongoing and constant, and new versions of this paper will appear at https://github.com/thoughtnetwork/thought-whitepaper
+For feedback or comments, contact us at research@thought.live. The Thought Network is a work in progress. Research and Development is ongoing and constant, and new versions of this paper will appear at https://github.com/thoughtnetwork/thought-whitepaper
 
 
 
