@@ -25,13 +25,20 @@ The Thought utility token (THT) will be used to enable functionality on the Netw
 
 This Whitepaper introduces:
 
---The Thought Network 
---specifications for the Nuance, it's connectivity to traditional systems and external data streams and computation capabilities (Oracles), 
+--The Thought Network
+
+--specifications for the Nuance, it's connectivity to traditional systems and external data streams and computation capabilities (Oracles),
+
 --specifications for the Active Data Transformation Fabric (ADTF) Node and it's connectivity to traditional systems and external data streams and computation capabilities,
+
 --autonomous Nuances, low level "tiny" agents (automata) that create useful and valuable emergent properties that reveal data insight and knowledge,
+
 --the Nuance Virtual Machine (NVM) architecture and structure,
+
 --a framework for a novel data model using consensus-driven templates for Smart Data instantiation using templates called "Concepts".
+
 --a novel class of proof-of-evolution DLT scheme which allows proof that a piece of data was processed in a meaningful/valuable way,
+
 --a standard framework for managing and assigning a real monetary or non-monetary value with a dynamic marketplace, to data, information, knowledge and insight.
 
 Important implementation factors will be outlined, a) representative use cases, b) connections to traditional systems, and use of the protocol.
